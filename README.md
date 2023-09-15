@@ -1,9 +1,4 @@
-# FACE-EYE-SMILE-HAND-POSE-COMPUTER-VISION
-
-Face- Eye- Smile recognition
-
-![Image](https://th.bing.com/th?id=OIP.GCDQF5nc4FtN65OmNF6j4QHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2)
-
+# HAND-POSE-COMPUTER-VISION
 
 Hand Recognition
 
@@ -18,4 +13,4 @@ Pose Recognition
 
 
 
-The models for face, eye, smile, hand, pose detections and recognitions are designed and developed. 
+The models for hand and pose detections and recognitions are designed and developed. 
